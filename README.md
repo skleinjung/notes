@@ -1,2 +1,5 @@
-# notes
-Notes, snippets, project ideas, etc.
+# 🗒️ Notes
+
+Scratch pad for quick notes and ideas for future projects.
+
+<!--notes--><!--/notes-->
