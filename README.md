@@ -6,9 +6,10 @@ Scratch pad for quick notes and ideas for future projects.
 
 ## 🌯 Summary
 
-- 1 notes in 1 years
+- 2 notes in 1 years
 
 ### 2021
 
+- [Automatic Resume Creator](./notes/2021/automatic-resume-creator.md), Invalid Date
 - [Static Site Checks](./notes/2021/static-site-checks.md), Invalid Date
 <!--/notes-->
